@@ -1,0 +1,1 @@
+# NodeJS-ODBC-MSSQL-AlwaysEncrypted
